@@ -1,6 +1,6 @@
 # Project Kuliah 2
 
-Ini Adalah Project Flutter untuk perkuliahan Pemograman Bergerak dan ini adalah salah satu tugas pertama yang diberikan yang berisikan tentang Project Flutter yang terdiri dari Push dan Pop .
+Ini Adalah Project Flutter untuk perkuliahan Pemograman Bergerak dan ini adalah salah satu tugas pertama yang diberikan yang berisikan tentang Project Flutter yang terdiri dari Intial Rute .
 
 Nama : Chris Febrianto SB
 
